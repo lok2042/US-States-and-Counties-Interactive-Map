@@ -47,7 +47,7 @@ Modify the `scripts` section in `package.json`:
 
 ## Assets
 
-Move the `/assets` folder containing `us-states.json` and `us-counties.json` into the `/dist` directory.
+Copy the `/assets` folder containing `us-states.json` and `us-counties.json` into the `/dist` directory.
 
 ## Run the Project
 
